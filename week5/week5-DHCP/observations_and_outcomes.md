@@ -1,17 +1,17 @@
 ## Configuring DHCP within a LAN
 <ul>
 <li><h3>A toplogy was created using a Router, a Switch, a Server and four PC's connected as shown in the figure</h3><br>
-<img src="https://github.com/AnusreeK-2000/CN_1BM18CS017/blob/master/week5/topology.png"/><br>
+<img src="https://github.com/AnusreeK-2000/CN_1BM18CS017/blob/master/week5/week5-DHCP/topology.png"/><br>
 </li>
 <li><h3>The Router interface was configured using CLI</h3><br>
 <li><h3>The Server was configured specifying the default gateway, DNS server, TFTP server as shown below</h3></li>
-<img src="https://github.com/AnusreeK-2000/CN_1BM18CS017/blob/master/week5/server_config.png"/><br>
+<img src="https://github.com/AnusreeK-2000/CN_1BM18CS017/blob/master/week5/week5-DHCP/server_config.png" /><br>
 <br>
 <li><h3>The PCs request the Server for ip</h3></li>
-<img src="https://github.com/AnusreeK-2000/CN_1BM18CS017/blob/master/week5/request_ip.png"/><br>
+<img src="https://github.com/AnusreeK-2000/CN_1BM18CS017/blob/master/week5/week5-DHCP/request_ip.png" /><br>
 <br>
 <li><h3>Upon request, an ip address was successfully assigned to the PC</h3></li>
-<img src="https://github.com/AnusreeK-2000/CN_1BM18CS017/blob/master/week5/request_successful.png"/><br>
+<img src="https://github.com/AnusreeK-2000/CN_1BM18CS017/blob/master/week5/week5-DHCP/request_successful.png"/><br>
 <br>
 </ul>
 
