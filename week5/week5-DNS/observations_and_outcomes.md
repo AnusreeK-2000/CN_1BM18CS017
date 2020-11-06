@@ -1,16 +1,16 @@
 ## Configuring Web server and DNS
 <ul>
 <li><h3>A toplogy was created using a Switch, a Server and a PC connected as shown in the figure</h3><br>
-<img src="https://github.com/AnusreeK-2000/CN_1BM18CS017/blob/master/week6/topology.png"/><br>
+<img src="https://github.com/AnusreeK-2000/CN_1BM18CS017/blob/master/week5/week5-DNS/topology.png"/><br>
 </li>
 <li><h3>HTTP services of the server was switched on</h3></li>
-<img src="https://github.com/AnusreeK-2000/CN_1BM18CS017/blob/master/week6/http_services.png"/><br>
+<img src="https://github.com/AnusreeK-2000/CN_1BM18CS017/blob/master/week5/week5-DNS/http_services.png"/><br>
 <br>
 <li><h3>DNS service of the Server was configured as shown in the figure</h3></li>
-<img src="https://github.com/AnusreeK-2000/CN_1BM18CS017/blob/master/week6/DNS.png"/><br>
+<img src="https://github.com/AnusreeK-2000/CN_1BM18CS017/blob/master/week5/week5-DNS/DNS.png" /><br>
 <br>
 <li><h3>Typing the defined url in the web browser of PC gives the required result</h3></li>
-<img src="https://github.com/AnusreeK-2000/CN_1BM18CS017/blob/master/week6/web_browser.png"/><br>
+<img src="https://github.com/AnusreeK-2000/CN_1BM18CS017/blob/master/week5/week5-DNS/web_browser.png" /><br>
 <br>
 </ul>
 
